@@ -1,0 +1,14 @@
+material marker_115
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture ar_tag_115.png
+			}
+		}
+	}
+}
+
