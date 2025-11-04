@@ -89,7 +89,14 @@ This demonstrates a transition from *absolute goal navigation* to *vision-inform
 - Recorded bag files and trajectory plots confirm navigation performance across scenarios.
 
 ---
+## Gallery
+<img width="800" height="600" alt="Immagine3" src="https://github.com/user-attachments/assets/d6a90f82-70d9-4226-bdbb-36e9ca1924eb" />
+
+<img width="800" height="600" alt="Immagine2" src="https://github.com/user-attachments/assets/204ccb2f-d9cf-4045-93c1-49287f95c567" />
+
+<img width="500" height="600" alt="Immagine1" src="https://github.com/user-attachments/assets/6c1e099a-e968-4fa2-a8fc-04d06e6e8f37" />
 
 ## Demo Video
-[aruco.webm](https://github.com/user-attachments/assets/17465b4c-4761-48fd-b74a-792c14a8f56d)
+
+https://github.com/user-attachments/assets/349bf966-fe2c-4900-8a85-49931be1e9ec
 
